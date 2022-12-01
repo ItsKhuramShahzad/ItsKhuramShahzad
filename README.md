@@ -1,7 +1,29 @@
 ### Hi there 👋
-
+### I,m Khuram Shahzad and I'm a Software Engineer | Software Developer | Data Scientist | 
+### A progressive smart soul who loves innovations , research and development
 <!--
 **ItsKhuramShahzad/ItsKhuramShahzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+## Hi there 👋
+### I'm Sharon and I'm a Software Developer
+- I'm currently developing research applications using Python for the USGS.
+- I'm using Machine Learning for classifiying satellite imagery.
+
+[![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=2320sharon&theme=blue-green&show_icons=true)](https://github.com/2320sharon/github-readme-stats)
+<!-- [![Sharon's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2320sharon&theme=blue-green)](https://github.com/2320sharon/github-readme-stats) -->
+<!--
+**2320sharon/2320sharon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
