@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### I,m Khuram Shahzad and I'm a Software Engineer | Software Developer | Data Scientist | 
 ### A progressive smart soul who loves innovations , research and development
+- I'm currently developing applications using C#.NET and doing research on Quantum Computer.
+- I'm using IBM Quantum Experience for Quantum Circuts and simulation.
 <!--
 **ItsKhuramShahzad/ItsKhuramShahzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,13 +19,12 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 ### I'm Sharon and I'm a Software Developer
-- I'm currently developing research applications using Python for the USGS.
-- I'm using Machine Learning for classifiying satellite imagery.
 
-[![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=2320sharon&theme=blue-green&show_icons=true)](https://github.com/2320sharon/github-readme-stats)
-<!-- [![Sharon's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2320sharon&theme=blue-green)](https://github.com/2320sharon/github-readme-stats) -->
+
+[![Khuram Shahzad github stats](https://github-readme-stats.vercel.app/api?username=ItsKhuramShahzad&theme=blue-green&show_icons=true)](https://github.com/ItsKhuramShahzad/github-readme-stats)
+<!-- [![Khuram's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKhuramShahzad&theme=blue-green)](https://github.com/ItsKhuramShahzad/github-readme-stats) -->
 <!--
-**2320sharon/2320sharon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ItsKhuramShahzad/ItsKhuramShahzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
