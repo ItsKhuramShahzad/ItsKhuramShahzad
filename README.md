@@ -3,8 +3,6 @@
 ### A progressive smart soul who loves innovations , research and development
 - I'm currently developing applications using C#.NET and doing research on Quantum Computer.
 - I'm using IBM Quantum Experience for Quantum Circuts and simulation.
-<!--
-**ItsKhuramShahzad/ItsKhuramShahzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Khuram Shahzad github stats](https://github-readme-stats.vercel.app/api?username=ItsKhuramShahzad&theme=blue-green&show_icons=true)](https://github.com/ItsKhuramShahzad/github-readme-stats)
 <!-- [![Khuram's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKhuramShahzad&theme=blue-green)](https://github.com/ItsKhuramShahzad/github-readme-stats) -->
