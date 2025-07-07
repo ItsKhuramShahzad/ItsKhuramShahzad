@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I,m Khuram Shahzad and I'm a Software Engineer | Software Developer | Data Scientist. 
+### I,m Khuram Shahzad and I'm a Software Engineer | Quantum Computing Developer | Data Scientist. 
 ### A progressive smart soul who loves innovations , research and development.
 - I'm currently developing applications using C#.NET and doing research on Quantum Computer.
 - I'm using IBM Quantum Experience for Quantum Circuts and simulation.
