@@ -1,124 +1,158 @@
 <div align="center">
 
-<!-- Quantum Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Khuram%20Shahzad&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20PhD%20Researcher%20%7C%20Data%20Scientist&descColor=a78bfa&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020818,30:041830,60:071e3d,100:020c1b&height=220&section=header&text=Khuram%20Shahzad&fontSize=58&fontColor=38bdf8&fontAlignY=42&stroke=0ea5e9&strokeWidth=2&desc=Software%20Engineer%20%7C%20PhD%20Researcher%20%7C%20Data%20Scientist&descColor=94a3b8&descSize=17&descAlignY=62&animation=twinkling" width="100%"/>
 
 </div>
-
----
 
 <div align="center">
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Quantum+Computing+Researcher+%F0%9F%94%AC;Machine+Learning+%2B+Quantum+Algorithms+%E2%9A%9B%EF%B8%8F;IBM+Qiskit+%7C+OpenFermion+%7C+CUDA-Q;Building+the+Future%2C+One+Qubit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=%E2%9A%9B%EF%B8%8F+Quantum+Algorithms+%C3%97+Machine+Learning+%C3%97+Quantum+Chemistry;%F0%9F%94%AC+IBM+Qiskit+%7C+OpenFermion+%7C+CUDA-Q;%F0%9F%A7%A0+Bridging+Classical+%26+Quantum+Computation;%F0%9F%9A%80+Building+the+Future%2C+One+Qubit+at+a+Time)](https://github.com/ItsKhuramShahzad)
 
 </div>
 
 <br/>
 
-## ⚛️ &nbsp;About Me
+<!-- ABOUT SECTION -->
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+
+## 👋 &nbsp;About Me
 
 ```python
 class KhuramShahzad:
-    def __init__(self):
-        self.name        = "Khuram Shahzad"
-        self.role        = ["Software Engineer", "PhD Researcher", "Data Scientist"]
-        self.research    = "Quantum Algorithms × Machine Learning × Quantum Chemistry"
-        self.tools       = ["IBM Qiskit", "OpenFermion", "CUDA-Q"]
-        self.passion     = "Innovations, Research & Development"
-        self.mindset     = "A progressive smart soul pushing the boundaries of what's possible."
+    name     = "Khuram Shahzad"
+    location = "🌍 Global Researcher"
+    roles    = [
+        "Software Engineer",
+        "PhD Researcher — Quantum Computing",
+        "Data Scientist",
+    ]
+    research = (
+        "Quantum Algorithms × ML"
+        " × Quantum Chemistry"
+    )
+    tools    = [
+        "IBM Qiskit",
+        "OpenFermion",
+        "CUDA-Q",
+    ]
+    mindset  = "Progressive · Innovative · Impact-Driven"
 
     def current_focus(self):
-        return [
-            "🔬 Researching quantum-classical hybrid algorithms",
-            "⚗️  Simulating molecular systems via quantum chemistry",
-            "🧠 Bridging ML and quantum computation",
-        ]
+        return {
+            "🔬": "Quantum-classical hybrid algorithms",
+            "⚗️":  "Molecular simulation via VQE",
+            "🧠": "Quantum feature maps & kernels",
+            "💡": "Bridging ML & quantum hardware",
+        }
 ```
 
-<br/>
-
----
-
-## 🔬 &nbsp;Research Focus
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**⚛️ Quantum Algorithms**
-<br/><sub>Designing hybrid quantum-classical algorithms that outperform classical counterparts on near-term devices</sub>
-
 </td>
-<td width="33%" align="center">
+<td width="42%" valign="top" align="center">
 
-**🧬 Quantum Chemistry**
-<br/><sub>Simulating molecular ground states & electronic structures using variational quantum eigensolvers (VQE)</sub>
+<br/><br/>
 
-</td>
-<td width="33%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ItsKhuramShahzad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020818&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8&ring_color=0ea5e9" width="100%"/>
 
-**🤖 Quantum ML**
-<br/><sub>Exploring quantum advantage in machine learning — feature maps, kernels & parametric circuits</sub>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKhuramShahzad&theme=tokyonight&hide_border=true&background=020818&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+## 🔬 &nbsp;Research Focus
+
+<div align="center">
+<table>
+<tr>
+
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/-%E2%9A%9B%EF%B8%8F%20Quantum%20Algorithms-020818?style=for-the-badge&labelColor=020818" /><br/><br/>
+<b>Quantum Algorithms</b><br/><br/>
+<sub>Hybrid quantum-classical algorithms on near-term devices. Variational methods, QAOA, quantum optimization.</sub>
+</td>
+
+<td align="center" width="30"><img src="https://img.shields.io/badge/-→-0ea5e9?style=flat-square"/></td>
+
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/-%F0%9F%A7%AC%20Quantum%20Chemistry-020818?style=for-the-badge&labelColor=020818" /><br/><br/>
+<b>Quantum Chemistry</b><br/><br/>
+<sub>Simulating molecular ground states & electronic structure using VQE with OpenFermion & Qiskit.</sub>
+</td>
+
+<td align="center" width="30"><img src="https://img.shields.io/badge/-→-0ea5e9?style=flat-square"/></td>
+
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/-%F0%9F%A4%96%20Quantum%20ML-020818?style=for-the-badge&labelColor=020818" /><br/><br/>
+<b>Quantum ML</b><br/><br/>
+<sub>Quantum advantage in ML — parametric circuits, quantum kernels, feature maps, QNN architectures.</sub>
+</td>
+
+</tr>
+</table>
+</div>
 
 ---
 
-## 🛠️ &nbsp;Tech Stack & Tools
+## 🛠️ &nbsp;Tech Arsenal
 
 <div align="center">
 
-**Quantum Computing**
+### ⚛️ Quantum Computing
+[![Qiskit](https://img.shields.io/badge/IBM_Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)](https://qiskit.org)
+[![CUDA-Q](https://img.shields.io/badge/CUDA--Q-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-q)
+[![OpenFermion](https://img.shields.io/badge/OpenFermion-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://quantumai.google/openfermion)
+[![PennyLane](https://img.shields.io/badge/PennyLane-00C7B7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)](https://pennylane.ai)
 
-![Qiskit](https://img.shields.io/badge/IBM%20Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
-![CUDA-Q](https://img.shields.io/badge/CUDA--Q-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![OpenFermion](https://img.shields.io/badge/OpenFermion-4285F4?style=for-the-badge&logo=google&logoColor=white)
+### 💻 Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
+[![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org)
+[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](#)
 
-**Languages & Frameworks**
+### 🤖 AI & Machine Learning
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**Data Science & ML**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### ⚙️ Tools & Platforms
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 
 </div>
-
-<br/>
 
 ---
 
-## 📊 &nbsp;GitHub Stats
+## 📊 &nbsp;GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsKhuramShahzad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKhuramShahzad&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKhuramShahzad&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="180em"/>
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsKhuramShahzad&bg_color=020818&color=38bdf8&line=0ea5e9&point=38bdf8&area=true&area_color=0ea5e920&hide_border=true&radius=8" width="100%"/>
 
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKhuramShahzad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=020818&title_color=38bdf8&text_color=94a3b8" width="42%"/>
+
+</div>
+
+---
+
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ItsKhuramShahzad&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -126,9 +160,21 @@ class KhuramShahzad:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khuram%20Shahzad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/itsKhuramshahzad)
-[![GitHub](https://img.shields.io/badge/GitHub-ItsKhuramShahzad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsKhuramShahzad/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+<a href="http://linkedin.com/in/itsKhuramshahzad">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/ItsKhuramShahzad">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://scholar.google.com">
+  <img src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</a>
 
 </div>
 
@@ -138,13 +184,13 @@ class KhuramShahzad:
 
 <div align="center">
 
-*"The universe is quantum mechanical at its core — and so is my curiosity."*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The+universe+is+quantum+mechanical+at+its+core+%E2%80%94+and+so+is+my+curiosity.&author=Khuram+Shahzad" width="80%"/>
 
-<br/>
+<br/><br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ItsKhuramShahzad&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=ItsKhuramShahzad&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS)
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020c1b,50:041830,100:020818&height=140&section=footer&animation=twinkling" width="100%"/>
 
 </div>
